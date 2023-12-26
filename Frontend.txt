@@ -1,0 +1,77 @@
+Piyush
+22:07 PM
+https://www.youtube.com/playlist?list=PLKhlp2qtUcSYQojD5G-ElgHezoCyq2Hgo
+
+Piyush
+22:07 PM
+https://github.com/Narahari-Sundaragopalan/JavaScript-Interview-Questions/tree/master/FE-JS-Questions
+
+Piyush
+22:08 PM
+https://github.com/devkodeio/the-dom-challenge
+
+Piyush
+22:15 PM
+https://www.youtube.com/playlist?list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5
+
+Piyush
+22:15 PM
+https://github.com/30-seconds/30-seconds-of-interviews
+
+Piyush
+22:19 PM
+[Learn to Code: How React.js Works](https://youtu.be/mLMfx8BEt8g)
+
+[Reconciliation - React](https://reactjs.org/docs/reconciliation.html)
+
+[Preserving and Resetting State – React](https://react.dev/learn/preserving-and-resetting-state)
+
+Piyush
+22:19 PM
+### Performance Topics -
+
+[Code Splitting in React JS - Lazy Loading Performance Optimization](https://www.youtube.com/watch?v=IBrmsyy9R94)
+
+- Virtualization to optimise large lists
+- shouldComponentUpdate
+- React Profiler
+- React.memo ( Only memoize when props hardly change )
+- code splitting
+- Use `React.Fragments` to Avoid Additional HTML Element Wrappers
+- Avoid Inline Function Definition in the Render Function
+- Debounce and Throttling
+- service workers
+- useMemo + Its Polyfill
+- Cancel Token for axios call ( axios.CancelToken.source() )
+- key in map
+- using CDN when needed
+- server side rendering
+- vite
+
+Piyush
+22:19 PM
+### SEO Topics -
+
+- ReactDOMServer
+- Helmet
+- Next JS Overview
+
+[Overview of Next.js](https://www.patterns.dev/posts/nextjs)
+
+[Web Vitals](https://web.dev/vitals/)
+
+Piyush
+22:19 PM
+[Modern Rendering Patterns](https://www.lydiahallie.io/blog/rendering-patterns)
+
+Piyush
+22:20 PM
+[Performance Optimization | Core Web Vitals | React](https://www.youtube.com/watch?v=fq0Ag8rC5GE)
+
+Piyush
+22:21 PM
+https://www.greatfrontend.com/?fpr=roadsidecoder
+
+Piyush
+22:24 PM
+https://discord.gg/2ecgDwx5EE
